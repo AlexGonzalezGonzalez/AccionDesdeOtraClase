@@ -31,15 +31,7 @@ public class Ventana {
         marco.setVisible(true);
     }
 
-    public JPanel getPanel() {
-        return panel;
-    }
-
-    public void setPanel(JPanel panel) {
-        this.panel = panel;
-    }
     
-
     
     
 }
